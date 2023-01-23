@@ -98,7 +98,7 @@ button:hover {
     right: 85px;
     top: 40px;
     right: 130px;
-    display: none;
+    visibility: hidden;
 }
 
 .error-msg {
@@ -106,5 +106,5 @@ button:hover {
     top: 95px;
     left: 25px;
     color: red;
-    display: none;
+    visibility: hidden;
 }

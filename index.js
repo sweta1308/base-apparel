@@ -7,7 +7,7 @@ function validateEmail() {
     if (document.querySelector(".input").value.match(mailFormat)) {
         return true;
     } else {
-        document.querySelector(".error-msg").innerHTML = "Please provide a valid email";
+        document.querySelector(".error-msg").innerText = "Please provide a valid email";
         document.querySelector(".error-logo").style.display = "block";
         return false;
     }

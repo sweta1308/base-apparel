@@ -145,6 +145,7 @@ button:hover {
     .heading, .description {
         width: 250px;
         text-align: center;
+        margin: 0 auto;
     }
 
     

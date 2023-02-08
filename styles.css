@@ -141,6 +141,7 @@ button:hover {
         width: 250px;
         margin-left: 35px; 
         margin-bottom: 100px;
+        font-size: 0.7rem;
     }
 
     button {

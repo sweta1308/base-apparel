@@ -142,7 +142,7 @@ button:hover {
         width: 80px;
     }
 
-    .heading, .description {
+    .description {
         width: 270px;
         text-align: center;
         margin-left: 35px;
@@ -150,5 +150,6 @@ button:hover {
 
     .heading {
         font-size: 3rem;
+        text-align: center;
     }
 }

@@ -126,4 +126,9 @@ button:hover {
         padding: 0;
         margin: 0;
     }
+
+    .logo {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
 }

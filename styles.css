@@ -12,6 +12,10 @@ main {
     height: 100vh;
 }
 
+.hero-mobile {
+    display: none;
+}
+
 .hero-image {
     width: 600px;
 }

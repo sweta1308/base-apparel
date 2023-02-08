@@ -148,5 +148,7 @@ button:hover {
         margin-left: 35px;
     }
 
-    
+    .heading {
+        font-size: 3rem;
+    }
 }

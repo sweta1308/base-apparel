@@ -121,4 +121,9 @@ button:hover {
     .hero-mobile {
         display: block;
     }
+
+    .content {
+        padding: 0;
+        margin: 0;
+    }
 }
